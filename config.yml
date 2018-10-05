@@ -1,0 +1,5 @@
+tablistHeader:
+  - "§aWelcome!"
+  - "§cOn my server"
+tablistFooter:
+  - "§6Online: §7%ONLINE%"

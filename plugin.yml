@@ -1,0 +1,4 @@
+main: pl.sopelplyt.stablist.Main
+name: STablist
+version: 1.0
+depended: [TabListAPI, PermissionsEx]
